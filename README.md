@@ -20,4 +20,10 @@
 
 A list of addresses / private keys is printed.
 
-YMMV :)
+
+## Donation ##
+If you find this program helpful, please consider a donation:
+
+BTC: bc1qqtspvvyl5nv2dwffd0zwppledlmct7sydpd9l5
+
+**Thank You!**
